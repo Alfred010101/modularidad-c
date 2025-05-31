@@ -1,0 +1,2 @@
+- Modular un proyecto en C 
+- Construir proyecto C con ayuda de Makefile
