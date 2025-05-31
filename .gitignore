@@ -1,1 +1,5 @@
+#configuracion vscode
 .vscode/
+
+#carpeta donde se guardan el ejecutable
+build/
